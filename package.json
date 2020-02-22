@@ -1,0 +1,24 @@
+{
+  "name": "wcmo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "http-server --log-ip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristof-mattei/wcmo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristof-mattei/wcmo/issues"
+  },
+  "homepage": "https://github.com/kristof-mattei/wcmo#readme"
+}
